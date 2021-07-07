@@ -1,0 +1,8 @@
+EasyTkinter==1.1.0
+Pillow==8.2.0
+torch==1.8.1
+torchvision==0.9.1
+opencv-python==3.4.8.29
+numpy==1.19.5
+imultis==0.5.4
+
